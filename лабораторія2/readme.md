@@ -47,6 +47,7 @@ v.	Побудувати доповнення (обернений) графа G.
 #### 3.	За допомогою лабораторного макету побудувати випадковий орієнтований граф G={5,10} та записати його матрицю відповідностей (інцедентності).
 
 ![image](https://github.com/SavrunYura/savryn_lab_totk_2021/blob/main/%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%96%D1%8F2/3g%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG?raw=true)
+
 ![image](![image](https://github.com/SavrunYura/savryn_lab_totk_2021/blob/main/%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%96%D1%8F2/3.2%D0%BC%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG?raw=true)
 )
 
